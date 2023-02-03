@@ -163,8 +163,8 @@ img {
         margin-top: 60px;
     }
 
-    .steps :not(.col:first-of-type) {
-        margin-top: 20px;
+    .steps .col:nth-child(n + 2) {
+        margin-top: 60px;
     }
 
     .why-us ul li:first-of-type {
