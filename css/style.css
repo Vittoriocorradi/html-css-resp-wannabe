@@ -176,15 +176,9 @@ img {
         margin-bottom: -20px;
     }
 
-    .lessons .col .card:last-child {
-        margin-top: 60px;
-    }
-
+    .lessons .col .card:last-child,
+    .why-us ul li:first-of-type,
     .steps .col:not(:first-child) {
-        margin-top: 60px;
-    }
-
-    .why-us ul li:first-of-type {
         margin-top: 60px;
     }
 
