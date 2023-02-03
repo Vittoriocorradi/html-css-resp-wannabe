@@ -128,6 +128,19 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+ /*
+ -------
+ MEDIA QUERY 1160PX
+ -------
+ */
+
+ @media screen and (max-width:1160px) {
+
+    .container {
+        max-width: 100%;
+    }
+
+ }
 
  /*
  -------
@@ -160,7 +173,7 @@ img {
     }
 
     .lessons h2 {
-        margin-bottom: 0;
+        margin-bottom: -20px;
     }
 
     .lessons .col .card:last-child {
