@@ -163,8 +163,8 @@ img {
         margin-top: 60px;
     }
 
-    .steps :not(.card:first-of-type) {
-        margin-top: 60px;
+    .steps :not(.col:first-of-type) {
+        margin-top: 20px;
     }
 
     .why-us ul li:first-of-type {
