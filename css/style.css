@@ -159,4 +159,16 @@ img {
         width: 100%;
     }
 
+    .lessons .col .card:last-child {
+        margin-top: 60px;
+    }
+
+    .steps :not(.card:first-of-type) {
+        margin-top: 60px;
+    }
+
+    .why-us ul li:first-of-type {
+        margin-top: 60px;
+    }
+
  }
