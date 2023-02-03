@@ -159,11 +159,15 @@ img {
         width: 100%;
     }
 
+    .lessons h2 {
+        margin-bottom: 0;
+    }
+
     .lessons .col .card:last-child {
         margin-top: 60px;
     }
 
-    .steps .col:nth-child(n + 2) {
+    .steps .col:not(:first-child) {
         margin-top: 60px;
     }
 
